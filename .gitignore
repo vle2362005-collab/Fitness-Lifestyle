@@ -1,0 +1,14 @@
+.local/
+.env.local
+node_modules/
+.next/
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+bin/
+obj/
+.vs/
+*.user
+*.tsbuildinfo
+mobile/android/local.properties
+backend/wwwroot/uploads/workout-analyses/
